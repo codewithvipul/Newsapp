@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "NBC New York"
+        },
+        "author": "Pat Battle, Jonathan Dienst, Brad Luck",
+        "title": "Newark imam in critical condition after shooting outside mosque - NBC New York",
+        "description": "An imam is in critical condition after being shot outside his mosque in Newark early Wednesday morning, city officials said. Officers responded to a call of a shooting at 6:15 a.m. at South Orange Avenue and Camden Street near Masjid Muhammad-Newark. A city s…",
+        "url": "http://www.nbcnewyork.com/news/local/newark-imam-in-critical-condition-after-shooting-near-mosque/5002181/",
+        "urlToImage": "https://media.nbcnewyork.com/2024/01/25621.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2024-01-03T18:39:47Z",
+        "content": "An imam is in critical condition after being shot outside his mosque in Newark early Wednesday morning, city officials said.\r\nOfficers responded to a call of a shooting at 6:15 a.m. at South Orange A… [+1343 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "At least 103 dead in bomb blasts near Iran general Qasem Soleimani's tomb - state TV - BBC.com",
+        "description": "Iran vows a harsh response after bombs target crowds on the anniversary of Qasem Soleimani's death.",
+        "url": "https://www.bbc.com/news/world-middle-east-67872281",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D8AD/production/_132196455_gettyimages-1897147620.jpg",
+        "publishedAt": "2024-01-03T18:21:00Z",
+        "content": "Watch: Moment crowds disperse after deadly bomb blasts in Iran\r\nAt least 103 people have been killed by two bomb explosions near the tomb of Iranian general Qasem Soleimani on the fourth anniversary … [+6661 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Allison Morrow, Michelle Watson, Kara Scannell, Emma Tucker, Samantha Delouya",
+        "title": "Epstein-linked John Does are about to be named publicly. Here’s what we know - CNN",
+        "description": "The identities of dozens of Jeffrey Epstein’s associates are expected to be revealed as soon as Tuesday, removing a cloak of anonymity that had partly shielded his network of friends and business associates from public scrutiny.",
+        "url": "https://www.cnn.com/2024/01/03/business/jeffrey-epstein-john-does/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23143860018277.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-01-03T18:16:00Z",
+        "content": "The identities of dozens of people linked to Jeffrey Epstein are expected to be revealed as soon as Wednesday, potentially removing a cloak of anonymity that had shielded much of the accused sex traf… [+5678 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Matthew Cappucci",
+        "title": "What we know about a possible East Coast snowstorm this weekend - The Washington Post",
+        "description": "Computer models are still waffling on where the rain-snow line may set up.",
+        "url": "https://www.washingtonpost.com/weather/2024/01/03/east-coast-weekend-storm-snow/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2VP4S5PB2JEZDMBZCG5NZ4FTBI.png&w=1440",
+        "publishedAt": "2024-01-03T18:14:43Z",
+        "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nAn East Coast storm is looming this weekend. A slug of moisture will dump moderate to heavy precipitation some wet and some white. Maj… [+7590 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Jennifer Hassan",
+        "title": "How to watch the first meteor shower of 2024, the fleeting Quadrantids - The Washington Post",
+        "description": "The first meteor shower of 2024 is about to peak. Here’s what to know about the Quadrantids.",
+        "url": "https://www.washingtonpost.com/weather/2024/01/03/quadrantid-meteor-shower-2024/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L6TGT2PP5RROMVH2IPFRESQXCI_size-normalized.jpg&w=1440",
+        "publishedAt": "2024-01-03T17:50:42Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "Russia and Ukraine stage big POW exchange after UAE mediation - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/world/europe/russia-ukraine-stage-big-pow-exchange-after-uae-mediation-2024-01-03/",
+        "urlToImage": null,
+        "publishedAt": "2024-01-03T17:50:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Analisa Novak",
+        "title": "Health officials are monitoring a triple threat of respiratory illnesses. Here's how to avoid getting sick - CBS News",
+        "description": "The Centers for Disease Control and Prevention is tracking the spread of the flu, RSV and COVID-19 this winter.",
+        "url": "https://www.cbsnews.com/news/health-officials-monitoring-a-triple-threat-of-respiratory-illnesses-cdc-covid-rsv-flu/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/18/64b5ce03-48bd-4351-8305-2ecb3062c5f0/thumbnail/1200x630/d475083a7dcbc6dd41dc385314a5a90b/gettyimages-1676556086.jpg?v=bc5e97361bb9e6142df5dbc26086568a",
+        "publishedAt": "2024-01-03T17:38:00Z",
+        "content": "As the new year gets underway, health officials are issuing a nationwide alert about a triple threat: The simultaneous spread of the flu, COVID-19, and respiratory syncytial virus, or RSV.\r\nThe Cente… [+1393 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Sarah Dadouch, Kareem Fahim",
+        "title": "Hezbollah leader to speak after killing of Hamas official in Lebanon - The Washington Post",
+        "description": "The anxiously awaited speech by Hasan Nasrallah is expected to offer clues about how Hezbollah will respond to Tuesday’s killing of a senior Hamas official in Beirut.",
+        "url": "https://www.washingtonpost.com/world/2024/01/03/hezbollah-leader-speak-after-killing-hamas-official-lebanon/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4WEC47XSM5GAOI5B62R3MLO2TQ_size-normalized.jpg&w=1440",
+        "publishedAt": "2024-01-03T17:25:00Z",
+        "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nBEIRUT In an anxiously anticipated speech Wednesday, Hasan Nasrallah, the leader of Hezbollah, the Lebanese paramilitary group and pol… [+6819 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Page Six"
+        },
+        "author": "Leah Bitsky",
+        "title": "Travis Kelce's managers detail plan to avoid overexposure amid Taylor Swift pandemonium - Page Six",
+        "description": "André and Aaron Eanes shared in a new interview that they had a vision for handling the NFL star’s rising fame long before his relationship with the pop star.",
+        "url": "https://pagesix.com/2024/01/03/celebrity-news/travis-kelces-managers-detail-plan-to-avoid-overexposure/",
+        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/01/74359431.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-01-03T17:03:00Z",
+        "content": "Taylor Swift didn’t put Travis Kelce on the map, according to his longtime managers.\r\nAndré and Aaron Eanes shared in a new interview that they had a game plan for handling the NFL star’s rising fame… [+4071 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Emily Mae Czachor",
+        "title": "First U.S. execution by nitrogen gas would cause \"painful and humiliating death,\" U.N. experts warn - CBS News",
+        "description": "Experts have denounced Alabama's planned execution of a death row inmate by nitrogen hypoxia — an untested suffocation method that they say could cause \"grave suffering.\"",
+        "url": "https://www.cbsnews.com/news/first-nitrogen-gas-execution-alabama-painful-humiliating-death-experts-warn/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/20/63ec8275-3de0-4dc2-9448-21bfc5852067/thumbnail/1200x630/e54997666d9a9f36e4c18cc9bc8ce6e4/ap22210584585911.jpg?v=bc5e97361bb9e6142df5dbc26086568a",
+        "publishedAt": "2024-01-03T16:50:00Z",
+        "content": "Calls continue to mount for officials to halt the execution of a death row inmate in Alabama, who is scheduled to be put to death later this month using nitrogen hypoxia — a controversial method that… [+4403 chars]"
+      },
+      {
+        "source": {
+          "id": "engadget",
+          "name": "Engadget"
+        },
+        "author": "Devindra Hardawar",
+        "title": "Roku's 'high-end' Pro Series TVs feature Mini LED screens - Engadget",
+        "description": "Roku is stepping into premium TV territory at CES 2024 with its new Pro Series sets.",
+        "url": "https://www.engadget.com/roku-high-end-pro-series-tvs-feature-mini-led-screens-164354589.html",
+        "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2024-01/a792c560-aa55-11ee-a5ed-c26c2d6b7edd",
+        "publishedAt": "2024-01-03T16:43:54Z",
+        "content": "Roku is stepping into premium TV territory at CES 2024 with its new Pro Series sets, which feature Mini LED backlighting for better brightness and contrast, as well as enhanced audio. The company ann… [+2585 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Holly Ellyatt",
+        "title": "Ukraine attacks Russian city of Belgorod and occupied Crimea overnight as retaliatory strikes intensify - CNBC",
+        "description": "The latest attacks continue an intensification of aerial warfare and \"tit for tat\" strikes by Russia and Ukraine over the last few days.",
+        "url": "https://www.cnbc.com/2024/01/03/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107353290-1704214450474-gettyimages-1895419407-ukrinform-gaspipel240102_npctY.jpeg?v=1704214494&w=1920&h=1080",
+        "publishedAt": "2024-01-03T16:39:23Z",
+        "content": "Russia's Defense Ministry said Ukraine used 12 missiles to target the Russian border region of Belgorod overnight.\r\n\"This morning, the Russian Armed Forces have foiled another attempt by the Kiev reg… [+1066 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nature.com"
+        },
+        "author": null,
+        "title": "A novel antibiotic class targeting the lipopolysaccharide transporter - Nature.com",
+        "description": "A&nbsp;tethered macrocyclic peptide antibiotic&nbsp;class&nbsp;described here—which shows potent antibacterial activity against carbapenem-resistant Acinetobacter baumannii—blocks the transport of bacterial lipopolysaccharide from the inner membrane to its de…",
+        "url": "https://www.nature.com/articles/s41586-023-06873-0",
+        "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-06873-0/MediaObjects/41586_2023_6873_Fig1_HTML.png",
+        "publishedAt": "2024-01-03T16:26:49Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": null,
+        "title": "How a Conservative Activist's Crusade Led to Claudine Gay's Resignation - POLITICO - POLITICO",
+        "description": "Christopher Rufo explains the motivations behind his latest crusade to topple the Harvard president.",
+        "url": "https://www.politico.com/news/magazine/2024/01/03/christopher-rufo-claudine-gay-harvard-resignation-00133618",
+        "urlToImage": "https://static.politico.com/82/b0/34c478544e298631ef158c1bd4ac/one-time-use-20240103-christopher-rufo-getty.jpg",
+        "publishedAt": "2024-01-03T16:20:23Z",
+        "content": "None of that happened by accident. As Rufo acknowledged to me, Gays resignation was the result of a coordinated and highly organized conservative campaign. It shows a successful strategy for the poli… [+7764 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Maki Shiraki, Daniel Leussink, Lisa Barrington",
+        "title": "Japan says Coast Guard plane apparently not cleared for take-off before runway collision - Reuters",
+        "description": "Japanese authorities said on Wednesday a passenger jet that collided with a Coast Guard turboprop at a Tokyo airport was given permission to land, but the smaller plane was not cleared for take-off, based on control tower transcripts.",
+        "url": "https://www.reuters.com/world/asia-pacific/police-probe-possible-negligence-tokyo-runway-collision-2024-01-03/",
+        "urlToImage": "https://www.reuters.com/resizer/yYmBg7_su-cLFv0f4dD96hZkzfM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RVLUMCPJ55IDNBOMVR62ETJ6LM.jpg",
+        "publishedAt": "2024-01-03T16:14:52Z",
+        "content": "TOKYO, Jan 3 (Reuters) - Japanese authorities said on Wednesday a passenger jet that collided with a Coast Guard turboprop at a Tokyo airport was given permission to land, but the smaller plane was n… [+5361 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Christopher Brito",
+        "title": "Jimmy Kimmel fires back at Aaron Rodgers after comment about release of names of Jeffrey Epstein's alleged associates - CBS News",
+        "description": "Jimmy Kimmel said Aaron Rodgers' remarks put his \"family in danger\" and he appeared to threaten legal action against the Jets quarterback.",
+        "url": "https://www.cbsnews.com/news/jimmy-kimmel-aaron-rodgers-jeffrey-epstein-list/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/03/6ffeacc0-aee1-455a-92fa-bd26de847884/thumbnail/1200x630g2/e9524fd415f8cbbf2133794a2593d087/untitled-design-3.png?v=bc5e97361bb9e6142df5dbc26086568a",
+        "publishedAt": "2024-01-03T16:12:00Z",
+        "content": "Jimmy Kimmel slammed Aaron Rodgers after the New York Jets quarterback claimed the late night host was potentially connected to the names of Jeffrey Epstein's alleged associates expected to be releas… [+2580 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "JILL LAWLESS",
+        "title": "Thousands of doctors in Britain walk off the job in their longest-ever strike - The Associated Press",
+        "description": "Thousands of doctors have walked off their jobs in Britain at the start of a six-day strike that's set to be the longest in the history of the state-funded National Health Service. Managers say tens of thousands scheduled appointments and operations will be p…",
+        "url": "https://apnews.com/article/uk-doctors-strike-disruption-nhs-a5c550eaa82d22b91805f5e29da047c6",
+        "urlToImage": "https://dims.apnews.com/dims4/default/6250a0c/2147483647/strip/true/crop/3500x1969+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F46%2F3b%2Fb61f6d53e97ca7151418102ae049%2Fb8df2221607f4cd9a264e1f67b0cf0de",
+        "publishedAt": "2024-01-03T16:05:32Z",
+        "content": "LONDON (AP) Patients faced canceled treatments after thousands of British doctors walked off the job on Wednesday, the start of a six-day strike over pay that was set to be the longest in the history… [+3325 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WBUR"
+        },
+        "author": "Miriam Wasser",
+        "title": "Vineyard Wind, country's first large-scale offshore wind project, is producing clean electricity - WBUR News",
+        "description": "The 62-turbine, 800 megawatt Vineyard Wind 1 project near Martha's Vineyard is officially producing clean electricity for Massachusetts.",
+        "url": "https://www.wbur.org/news/2024/01/03/vineyard-offshore-wind-massachusetts-first-power-clean-energy",
+        "urlToImage": "https://wordpress.wbur.org/wp-content/uploads/2023/12/1230_vineyard3-1000x579.jpg",
+        "publishedAt": "2024-01-03T15:56:15Z",
+        "content": "Electricity from the countrys first large-scale offshore wind project is officially flowing into Massachusetts and helping to power the New England grid.\r\nThe Vineyard Wind project achieved first pow… [+7830 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Lauren Fox, Priscilla Alvarez, Michael Williams",
+        "title": "House committee to formally begin impeachment proceedings against Biden Homeland Security chief over border policies - CNN",
+        "description": "House Republicans will forge ahead with steps to impeach Secretary of Homeland Security Alejandro Mayorkas, a GOP source tells CNN.",
+        "url": "https://www.cnn.com/2024/01/03/politics/house-homeland-security-committee-impeachment-mayorkas/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240103080702-alejandro-mayorkas-110823.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-01-03T15:32:00Z",
+        "content": "House Republicans will forge ahead with steps to impeach Secretary of Homeland Security Alejandro Mayorkas over his handling of the border crisis, a GOP source tells CNN.\r\nIn a statement provided to … [+4009 chars]"
+      }
+    ]
+  }
